@@ -1,0 +1,17 @@
+16
+A:B,C,D,E,F,G,H,I,J,K,L,M,N,O,P
+B:A,C,D,E,F,G,H,I,J,K,L,M,N,O,P
+C:A,B,D,E,F,G,H,I,J,K,L,M,N,O,P
+D:A,B,C,E,F,G,H,I,J,K,L,M,N,O,P
+E:A,B,C,D,F,G,H,I,J,K,L,M,N,O,P
+F:A,B,C,D,E,G,H,I,J,K,L,M,N,O,P
+G:A,B,C,D,E,F,H,I,J,K,L,M,N,O,P
+H:A,B,C,D,E,F,G,I,J,K,L,M,N,O,P
+I:A,B,C,D,E,F,G,H,J,K,L,M,N,O,P
+J:A,B,C,D,E,F,G,H,I,K,L,M,N,O,P
+K:A,B,C,D,E,F,G,H,I,J,L,M,N,O,P
+L:A,B,C,D,E,F,G,H,I,J,K,M,N,O,P
+M:A,B,C,D,E,F,G,H,I,J,K,L,N,O,P
+N:A,B,C,D,E,F,G,H,I,J,K,L,M,O,P
+O:A,B,C,D,E,F,G,H,I,J,K,L,M,N,P
+P:A,B,C,D,E,F,G,H,I,J,K,L,M,N,O

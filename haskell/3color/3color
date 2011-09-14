@@ -1,0 +1,3 @@
+#!/bin/sh
+
+dist/build/3color/3color +RTS -N3 -H1g -A256m -K16m -RTS "$@"

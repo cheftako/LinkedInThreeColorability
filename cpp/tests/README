@@ -1,0 +1,7 @@
+sample.txt : Simple example, 3-colorable
+
+sample5.txt : Simple example, 3-colorable
+
+sampleClique.txt : Simple example, not 3-colorable, 4-clique
+
+samplePentagram.txt : Simple example, not 3-colorable, not a 4-clique

@@ -1,0 +1,16 @@
+15
+A:E,G,H,I,J,M,N,O
+B:C,D,F,H,I,M,N
+C:B,H,J,L,M
+D:B,F,G,J,K,L,M,N
+E:A,J,K,M,N
+F:B,D,G,I,L
+G:A,D,F,J,M,N
+H:A,B,C,J,K,M,N
+I:A,B,F,J,K,L,M
+J:A,C,D,E,G,H,I,K,M,N,O
+K:D,E,H,I,J,M
+L:C,D,F,I,M,O
+M:A,B,C,D,E,G,H,I,J,K,L,N
+N:A,B,D,E,G,H,J,M
+O:A,J,L

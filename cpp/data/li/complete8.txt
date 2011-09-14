@@ -1,0 +1,9 @@
+8
+A:B,C,D,E,F,G,H
+B:A,C,D,E,F,G,H
+C:A,B,D,E,F,G,H
+D:A,B,C,E,F,G,H
+E:A,B,C,D,F,G,H
+F:A,B,C,D,E,G,H
+G:A,B,C,D,E,F,H
+H:A,B,C,D,E,F,G

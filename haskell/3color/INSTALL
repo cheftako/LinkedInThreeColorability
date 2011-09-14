@@ -1,0 +1,28 @@
+On Fedora 13:
+
+- Install GHC 7.0.2 (x86_64): http://haskell.org/ghc/dist/7.0.2/ghc-7.0.2-x86_64-unknown-linux.tar.bz2
+
+    ./configure
+    sudo make install
+
+- Install Haskell Platfrom: http://lambda.galois.com/hp-tmp/2011.2.0.0/haskell-platform-2011.2.0.0.tar.gz
+
+    ./configure
+    make
+    sudo make install
+
+- Update cabal:
+
+    cabal update
+
+- Install dependencies:
+
+    cabal install logict split fgl
+
+- Build project:
+
+    cabal clean && cabal configure && cabal build
+
+- Run project:
+
+    ./3color [GRAPH FILE]

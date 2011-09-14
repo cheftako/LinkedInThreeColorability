@@ -1,0 +1,10 @@
+9
+A:E,C,B
+B:A,D,E
+C:A,D,E
+D:B,C,E
+E:A,B,C,D,F,G,H,I
+F:G,H,E
+G:F,I,E
+H:F,I,E
+I:G,H,E

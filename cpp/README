@@ -1,0 +1,13 @@
+This is a preliminary version of the scaffolding.
+It also has a simple 4-clique detection algorithm.
+
+Sample useage :-
+$ time ./threecolor tests/sample.txt
+Task one returning success
+Task two
+Clique check passed
+Done
+real	0m0.013s
+user	0m0.001s
+sys	0m0.002s
+

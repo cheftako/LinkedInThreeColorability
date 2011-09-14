@@ -1,0 +1,24 @@
+Name:                   3color
+Version:                0.1
+License:                MIT
+License-file:           LICENSE
+Author:                 Chris Pettitt
+Maintainer:             cpettitt@gmail.com
+Copyright:              Copyright (c) 2011 Chris Pettitt
+Category:               Data, Data Structures
+Synopsis:               A 3-coloring solver
+Description:            A 3-coloring solver
+
+Build-Type:             Simple
+Cabal-Version:          >=1.4
+
+Executable 3color
+    Main-Is:            Main.hs
+    Build-Depends:      base >= 3, base < 5,
+                        containers,
+                        fgl,
+                        filepath,
+                        logict,
+                        mtl,
+                        split
+    Ghc-Options:        -Wall -rtsopts -O2 -threaded -funbox-strict-fields

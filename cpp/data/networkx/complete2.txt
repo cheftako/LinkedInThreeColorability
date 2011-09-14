@@ -1,0 +1,5 @@
+#
+# GMT Mon Apr 11 16:06:26 2011
+# empty_graph(2)
+0 1 
+1 
