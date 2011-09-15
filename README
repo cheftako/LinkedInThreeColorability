@@ -2,3 +2,4 @@ This is a reference repository for the three colorability contest held at Linked
 This code was written for fun and is not officially supported.
 There are three entrants one in Java, one is Haskell and one in C++.
 There is also a directory of the tests cases used to judge the entrants.
+For a write up on the problem and results please read the article at http://engineering.linkedin.com/49/linkedin-coding-competitions-graph-coloring-haskell-c-and-java.
